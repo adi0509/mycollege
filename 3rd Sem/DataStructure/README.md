@@ -62,8 +62,10 @@
    - [ ] Insert
    - [ ] Delete
    - [ ] InOrder Traversal 
- - AVL Tree 
+ - Binary Search Tree 
    - [ ] Insert
    - [ ] Delete
+   - [ ] AVL Insert
+   - [ ] AVL Delete
 
 
